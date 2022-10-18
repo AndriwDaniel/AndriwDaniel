@@ -1,4 +1,8 @@
-## Olá! eu sou Andriw Daniel
+<p align="center">
+  <a href="https://github.com/AndriwDaniel"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=19&pause=1000&center=true&vCenter=true&width=450&lines=Ol%C3%A1!+Eu+sou+o+Andriw+Daniel;Estudante+de+An%C3%A1lise+e+Des.+de+Sistemas;Programador+por+divers%C3%A3o;Sempre+aprendendo+coisas+novas"></a>
+</p>
+
+  ##
 
 <div align="center">
   <a href="https://github.com/AndriwDaniel">
